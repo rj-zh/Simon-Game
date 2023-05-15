@@ -12,3 +12,5 @@ The course provides skeleton files of HTML, CSS and sounds; the Javascript is wr
 Demo video of this project: the SimonGameDemoVid.mp4 file in this same directory.<br>
 Demo site (example site) of the game can be found [here](https://londonappbrewery.github.io/Simon-Game/).<br>
 Refer to [this page](https://en.wikipedia.org/wiki/Simon_(game)#Gameplay) for game rules explanation.
+
+![](SimonGameDemoPic.png)
