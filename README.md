@@ -8,7 +8,7 @@ The course provides skeleton files of HTML, CSS and sounds; the Javascript is wr
 
 演示视频为同一目录下的SimonGameDemoVid.mp4文件；<br>
 演示网站（范例网站）在[此处](https://londonappbrewery.github.io/Simon-Game/)；<br>
-有关Simon游戏的规则解释，可查阅[此页面](https://londonappbrewery.github.io/Simon-Game/)。<br>
+有关Simon游戏的规则解释，可查阅[此页面]([https://londonappbrewery.github.io/Simon-Game/](https://en.wikipedia.org/wiki/Simon_(game)#Gameplay)。<br>
 Demo video of this project: the SimonGameDemoVid.mp4 file in this same directory.<br>
 Demo site (example site) of the game can be found [here](https://londonappbrewery.github.io/Simon-Game/).<br>
 Refer to [this page](https://en.wikipedia.org/wiki/Simon_(game)#Gameplay) for game rules explanation.
